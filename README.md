@@ -29,6 +29,8 @@ Proxy Links:
 
 [Kraken](https://kraken-uv.herokuapp.com/)
 
+[Hurricane Ian](https://hurricane-ian.herokuapp.com/)
+
 All these proxies are very newly made, and should not currently be blocked by $ch001$
 
 If any of them don't work, or your school has blocked any of these, then contact me on discord:
