@@ -27,7 +27,7 @@ Proxy Links:
 
 [Content Torch](https://content-torch.herokuapp.com/)
 
-[Kraken] (https://kraken-uv.herokuapp.com/)
+[Kraken](https://kraken-uv.herokuapp.com/)
 
 All these proxies are very newly made, and should not currently be blocked by $ch001$
 
