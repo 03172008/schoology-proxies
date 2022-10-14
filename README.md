@@ -26,6 +26,7 @@ Proxy Links:
 [Plutonium Element](https://plutonium-element.herokuapp.com/)
 
 [Content Torch](https://content-torch.herokuapp.com/)
+[Kraken] (https://kraken-uv.herokuapp.com/)
 
 All these proxies are very newly made, and should not currently be blocked by $ch001$
 
