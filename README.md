@@ -1,8 +1,6 @@
 # schoology-proxies
 Proxy Links:
 
-https://quizlet-live1.herokuapp.com
-
 https://quizizz-com.herokuapp.com
 
 https://gimkit-com.herokuapp.com
