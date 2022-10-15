@@ -33,6 +33,16 @@ Proxy Links:
 
 [Jurrasic Period](https://jurrasic-period.herokuapp.com/)
 
+[Innocent Citizen](https://innocent-citizen.herokuapp.com/)
+
+[Chief Commision](https://chief-commision.herokuapp.com/)
+
+[Journal Drum](https://journal-drum.herokuapp.com/)
+
+[Notorious Password](https://notorious-password.herokuapp.com/)
+
+[Ant Ban](https://ant-ban.herokuapp.com/)
+
 All these proxies are very newly made, and should not currently be blocked by $ch001$
 
 If any of them don't work, or your school has blocked any of these, then contact me on discord:
